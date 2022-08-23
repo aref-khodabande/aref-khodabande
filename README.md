@@ -1,11 +1,6 @@
 
 ## Intro  
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-### hi 👋 I'm Arko, a full-time Flutter freelance developer   
+# <div align="center">hi 👋 I'm Arko, a full-time Flutter freelance developer </div>  
   
 
 - 🔭 I’m currently working on Eitook and Ghasedak  
