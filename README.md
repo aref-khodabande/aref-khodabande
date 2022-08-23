@@ -1,5 +1,3 @@
-
-## Intro  
 # <div align="center">hi 👋 I'm Arko, a full-time Flutter freelance developer </div>  
   
 
