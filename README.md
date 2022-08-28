@@ -2,10 +2,7 @@
   
 
 - 🔭 I’m currently working on Eitook and Ghasedak  
-  
-
-- 🌱 I’m currently learning ui/ux and product design  
-  
+    
 
 - ❓ Ask me about anything related to Flutter   
   
