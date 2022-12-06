@@ -1,7 +1,7 @@
 # <div align="center">hi 👋 I'm Arko, a full-time Flutter freelance developer </div>  
   
 
-- 🔭 I’m currently working on Eitook and Ghasedak  
+- 🔭 I’m currently working on Eitook and Sana  
     
 
 - ❓ Ask me about anything related to Flutter   
