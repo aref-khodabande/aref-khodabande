@@ -1,4 +1,4 @@
-# <div align="center">hi 👋 I'm Arko, a full-time Flutter freelance developer </div>  
+# <div align="center">hi 👋 I'm Arko, a full-time Flutter developer </div>  
   
 
 - 🔭 I’m currently working on Eitook and Sana  
